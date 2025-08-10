@@ -6,7 +6,7 @@
 
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 Hello, I'm Varun KV, an Algorithms enthusiast. I do competetive coding,
-<br>Codefores (Highest rating: 1299)
+<br>Codefores (Highest rating: specialist)
 <br>Data Science, Machine Learning and DevOps enthusiast.
 <br>Well acquainted with python based back-end frameworks. 
 <br>Hands-on experience with kubernetes, docker and Apache ecosystem (Spark, Hadoop, and YARN).
