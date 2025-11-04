@@ -5,12 +5,11 @@
 </br>
 
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
-Hello, I'm Varun KV, an Algorithms enthusiast. I do competetive coding,
-<br>Codefores (Highest rating: specialist)
-<br>Data Science, Machine Learning and DevOps enthusiast.
-<br>Well acquainted with python based back-end frameworks. 
-<br>Hands-on experience with kubernetes, docker and Apache ecosystem (Spark, Hadoop, and YARN).
-<br>I am looking forward to learn new things such that the logical thought process is embedded in my mind.
+Hello, I’m Varun Kesharaju (Varun KV) — an Algorithms enthusiast and Systems | Software | DevOps Engineer passionate about building scalable and reliable infrastructure.
+<br> 💻 Competitive Programming: Specialist on Codeforces, with a strong foundation in data structures and algorithms.
+<br> ⚙️ Technical Focus: Backend development, distributed systems, and cloud-native solutions.
+<br> ☁️ Hands-on Expertise: Kubernetes, Docker, Azure (AKS, VNet Peering), CI/CD (Jenkins, Helm), and the Apache ecosystem — Spark, Hadoop, and YARN.
+<br> 🚀 Driven by curiosity, I enjoy tackling complex systems problems and continuously learning new technologies that strengthen my logical reasoning and engineering mindset.
 <br>I agree with astrophysicist Carl Sagan that,
 <br>"Every kid starts out as a natural-born scientist, and then we beat it out of them. A few trickle through the system with their wonder and enthusiasm for science intact."
 
